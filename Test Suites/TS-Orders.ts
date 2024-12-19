@@ -15,7 +15,7 @@
       <guid>407d2eb9-3a07-486d-922a-28ac3266e5d3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TV-Find-OrderByID</testCaseId>
+      <testCaseId>Test Cases/Swagger/TV-Find-OrderByID</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
