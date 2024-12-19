@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS-Orders" time="3.756" tests="1" failures="0" errors="0">
+   <testsuite name="TS-Orders" tests="1" failures="0" errors="0" time="3.756" skipped="0" timestamp="09-12-2024T08:21:11" hostname="mahtabsiddique - localhost" id="Test Suites/TS-Orders">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/mahtabsiddique/git/api-sample-tests/Reports/20241209_082022/TS-Orders/20241209_082105"/>
+         <property name="logFiles" value="/Users/mahtabsiddique/git/api-sample-tests/Reports/20241209_082022/TS-Orders/20241209_082105/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="mahtabsiddique - localhost"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+      </properties>
+      <testcase name="Test Cases/TV-Find-OrderByID" time="3.434" classname="Test Cases/TV-Find-OrderByID" status="PASSED">
+         <system-out><![CDATA[09-12-2024T08:21:11 - [TEST_CASE][PASSED] - Test Cases/TV-Find-OrderByID: Test Cases/TV-Find-OrderByID
+
+09-12-2024T08:21:11 - [TEST_STEP][PASSED] - sendRequest(findTestObject("Swagger Petstore/getOrderById")): Send request successfully
+
+09-12-2024T08:21:14 - [MESSAGE][INFO] - HAR: /Users/mahtabsiddique/git/api-sample-tests/Reports/20241209_082022/TS-Orders/20241209_082105/requests/main/0.har
+
+09-12-2024T08:21:14 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[09-12-2024T08:21:11 - [TEST_SUITE][PASSED] - TS-Orders: Test Cases/TV-Find-OrderByID]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

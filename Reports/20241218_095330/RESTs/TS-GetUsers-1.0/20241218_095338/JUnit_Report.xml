@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS-GetUsers-1.0" time="3.379" tests="1" failures="0" errors="0">
+   <testsuite name="TS-GetUsers-1.0" tests="1" failures="0" errors="0" time="3.379" skipped="0" timestamp="18-12-2024T09:53:42" hostname="mahtabsiddique - localhost" id="Test Suites/RESTs/TS-GetUsers-1.0">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/mahtabsiddique/git/api-sample-tests/Reports/20241218_095330/RESTs/TS-GetUsers-1.0/20241218_095338"/>
+         <property name="logFiles" value="/Users/mahtabsiddique/git/api-sample-tests/Reports/20241218_095330/RESTs/TS-GetUsers-1.0/20241218_095338/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="mahtabsiddique - localhost"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="10.0.1.223"/>
+      </properties>
+      <testcase name="Test Cases/REST-1.0/TC-GetUsers-1.0" time="3.12" classname="Test Cases/REST-1.0/TC-GetUsers-1.0" status="PASSED">
+         <system-out><![CDATA[18-12-2024T09:53:42 - [TEST_CASE][PASSED] - Test Cases/REST-1.0/TC-GetUsers-1.0: Test Cases/REST-1.0/TC-GetUsers-1.0
+
+18-12-2024T09:53:43 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject("REST1.0/GETUsers-1.0")): Send request successfully
+
+18-12-2024T09:53:44 - [MESSAGE][INFO] - HAR: /Users/mahtabsiddique/git/api-sample-tests/Reports/20241218_095330/RESTs/TS-GetUsers-1.0/20241218_095338/requests/main/0.har
+
+18-12-2024T09:53:44 - [MESSAGE][PASSED] - Send request successfully
+
+18-12-2024T09:53:44 - [TEST_STEP][PASSED] - jsonResponse = JsonSlurper().parseText(response.getResponseBodyContent()): null
+
+18-12-2024T09:53:44 - [TEST_STEP][PASSED] - userData = data: null
+
+18-12-2024T09:53:44 - [TEST_STEP][PASSED] - filePath = "/Users/mahtabsiddique/Documents/samplefiles/file.xlsx": null
+
+18-12-2024T09:53:44 - [TEST_STEP][PASSED] - sheetName = "APIResponse": null
+
+18-12-2024T09:53:44 - [TEST_STEP][PASSED] - ExcelUtils.writeDataToExcel(filePath, sheetName, userData): ExcelUtils.writeDataToExcel is PASSED
+
+18-12-2024T09:53:45 - [MESSAGE][PASSED] - ExcelUtils.writeDataToExcel is PASSED
+
+18-12-2024T09:53:45 - [TEST_STEP][PASSED] - response2 = sendRequest(findTestObject("REST/Postman/Single-User")): Send request successfully
+
+18-12-2024T09:53:46 - [MESSAGE][INFO] - HAR: /Users/mahtabsiddique/git/api-sample-tests/Reports/20241218_095330/RESTs/TS-GetUsers-1.0/20241218_095338/requests/main/1.har
+
+18-12-2024T09:53:46 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-12-2024T09:53:42 - [TEST_SUITE][PASSED] - TS-GetUsers-1.0: Test Cases/REST-1.0/TC-GetUsers-1.0]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

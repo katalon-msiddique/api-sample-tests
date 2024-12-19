@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-SOAP-ADD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f20e65d-5a04-4ced-9568-71e8d8dad677</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eefa0dbe-4986-44b3-ad8a-7722de3d8b61</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>99ee7b2a-b726-443d-a6d3-d559b71bebff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.IntAA1</defaultValue>
+      <description></description>
+      <id>eefa0dbe-4986-44b3-ad8a-7722de3d8b61</id>
+      <masked>false</masked>
+      <name>IntA1</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.IntBB1</defaultValue>
+      <description></description>
+      <id>99ee7b2a-b726-443d-a6d3-d559b71bebff</id>
+      <masked>false</masked>
+      <name>IntA2</name>
+   </variable>
+</TestCaseEntity>

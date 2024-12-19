@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/SOAP/TC-SOAP-ADD","testCaseId":"Test Cases/SOAP/TC-SOAP-ADD","iterationVariableName":"IntA2","bindedValues":{"IntA1":"\u00271\u0027","IntA2":"\u00272\u0027"}}
+{"testCaseName":"Test Cases/SOAP/TC-SOAP-ADD","testCaseId":"Test Cases/SOAP/TC-SOAP-ADD","iterationVariableName":"IntA2","bindedValues":{"IntA1":"\u00272\u0027","IntA2":"\u00274\u0027"}}
+{"testCaseName":"Test Cases/SOAP/TC-SOAP-ADD","testCaseId":"Test Cases/SOAP/TC-SOAP-ADD","iterationVariableName":"IntA2","bindedValues":{"IntA1":"\u00274\u0027","IntA2":"\u00276\u0027"}}

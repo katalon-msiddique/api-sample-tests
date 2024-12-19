@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_Addition,,,,10-12-2024 09:59:56,10-12-2024 09:59:58,2.355s,PASSED
+,,,,,,,
+Test Cases/SOAP/TC-SOAP-ADD,,,,10-12-2024 09:59:56,10-12-2024 09:59:57,1.357s,PASSED
+"sendRequest(findTestObject(""SOAP/SOAP Service/CalculatorSoap/Add"", [""IntA"":IntA1, ""IntB"":IntA2]))",,,,10-12-2024 09:59:56,10-12-2024 09:59:57,1.265s,PASSED
+,,,,,,,
+Test Cases/SOAP/TC-SOAP-ADD,,,,10-12-2024 09:59:57,10-12-2024 09:59:58,0.642s,PASSED
+"sendRequest(findTestObject(""SOAP/SOAP Service/CalculatorSoap/Add"", [""IntA"":IntA1, ""IntB"":IntA2]))",,,,10-12-2024 09:59:57,10-12-2024 09:59:58,0.635s,PASSED
+,,,,,,,
+Test Cases/SOAP/TC-SOAP-ADD,,,,10-12-2024 09:59:58,10-12-2024 09:59:58,0.272s,PASSED
+"sendRequest(findTestObject(""SOAP/SOAP Service/CalculatorSoap/Add"", [""IntA"":IntA1, ""IntB"":IntA2]))",,,,10-12-2024 09:59:58,10-12-2024 09:59:58,0.262s,PASSED

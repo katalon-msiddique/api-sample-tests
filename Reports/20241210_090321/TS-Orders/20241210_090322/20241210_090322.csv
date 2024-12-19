@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-Orders,,,,10-12-2024 09:03:24,10-12-2024 09:03:25,1.817s,PASSED
+,,,,,,,
+Test Cases/Swagger/TV-Find-OrderByID,,,,10-12-2024 09:03:24,10-12-2024 09:03:25,1.747s,PASSED
+"sendRequest(findTestObject(""Swagger Petstore/getOrderById""))",,,,10-12-2024 09:03:24,10-12-2024 09:03:25,1.656s,PASSED

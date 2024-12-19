@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-GetUsers-1.0,,,,18-12-2024 11:37:53,18-12-2024 11:37:54,1.323s,PASSED
+,,,,,,,
+Test Cases/REST-1.0/TC-GetUsers-1.0,,,,18-12-2024 11:37:53,18-12-2024 11:37:54,1.257s,PASSED
+"response = sendRequest(findTestObject(""REST1.0/GETUsers-1.0""))",,,,18-12-2024 11:37:53,18-12-2024 11:37:54,0.724s,PASSED
+jsonResponse = JsonSlurper().parseText(response.getResponseBodyContent()),,,,18-12-2024 11:37:54,18-12-2024 11:37:54,0.011s,PASSED
+userData = data,,,,18-12-2024 11:37:54,18-12-2024 11:37:54,0.003s,PASSED
+"filePath = ""/Users/mahtabsiddique/Documents/samplefiles/file.xlsx""",,,,18-12-2024 11:37:54,18-12-2024 11:37:54,0.001s,PASSED
+"sheetName = ""APIResponse""",,,,18-12-2024 11:37:54,18-12-2024 11:37:54,0.001s,PASSED
+"ExcelUtils.writeDataToExcel(filePath, sheetName, userData)",,,,18-12-2024 11:37:54,18-12-2024 11:37:54,0.335s,PASSED
+"response2 = sendRequest(findTestObject(""REST/Postman/Single-User""))",,,,18-12-2024 11:37:54,18-12-2024 11:37:54,0.067s,PASSED
