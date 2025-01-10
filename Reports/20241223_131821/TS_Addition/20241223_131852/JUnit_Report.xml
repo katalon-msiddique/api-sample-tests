@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_Addition" time="3.79" tests="3" failures="0" errors="0">
+   <testsuite name="TS_Addition" tests="3" failures="0" errors="0" time="3.79" skipped="0" timestamp="23-12-2024T13:18:56" hostname="mahtabsiddique - localhost" id="Test Suites/TS_Addition">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/mahtabsiddique/git/api-sample-tests/Reports/20241223_131821/TS_Addition/20241223_131852"/>
+         <property name="logFiles" value="/Users/mahtabsiddique/git/api-sample-tests/Reports/20241223_131821/TS_Addition/20241223_131852/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="mahtabsiddique - localhost"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="10.0.1.223"/>
+      </properties>
+      <testcase name="Test Cases/SOAP/TC-SOAP-ADD" time="2.715" classname="Test Cases/SOAP/TC-SOAP-ADD" status="PASSED">
+         <system-out><![CDATA[23-12-2024T13:18:56 - [TEST_CASE][PASSED] - Test Cases/SOAP/TC-SOAP-ADD: Test Cases/SOAP/TC-SOAP-ADD
+
+23-12-2024T13:18:56 - [TEST_STEP][PASSED] - sendRequest(findTestObject("SOAP/SOAP Service/CalculatorSoap/Add", ["IntA":10, "IntB":20])): Send request successfully
+
+23-12-2024T13:18:58 - [MESSAGE][INFO] - HAR: /Users/mahtabsiddique/git/api-sample-tests/Reports/20241223_131821/TS_Addition/20241223_131852/requests/main/0.har
+
+23-12-2024T13:18:59 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SOAP/TC-SOAP-ADD" time="0.334" classname="Test Cases/SOAP/TC-SOAP-ADD" status="PASSED">
+         <system-out><![CDATA[23-12-2024T13:18:59 - [TEST_CASE][PASSED] - Test Cases/SOAP/TC-SOAP-ADD: Test Cases/SOAP/TC-SOAP-ADD
+
+23-12-2024T13:18:59 - [TEST_STEP][PASSED] - sendRequest(findTestObject("SOAP/SOAP Service/CalculatorSoap/Add", ["IntA":10, "IntB":20])): Send request successfully
+
+23-12-2024T13:18:59 - [MESSAGE][INFO] - HAR: /Users/mahtabsiddique/git/api-sample-tests/Reports/20241223_131821/TS_Addition/20241223_131852/requests/main/1.har
+
+23-12-2024T13:18:59 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SOAP/TC-SOAP-ADD" time="0.318" classname="Test Cases/SOAP/TC-SOAP-ADD" status="PASSED">
+         <system-out><![CDATA[23-12-2024T13:18:59 - [TEST_CASE][PASSED] - Test Cases/SOAP/TC-SOAP-ADD: Test Cases/SOAP/TC-SOAP-ADD
+
+23-12-2024T13:18:59 - [TEST_STEP][PASSED] - sendRequest(findTestObject("SOAP/SOAP Service/CalculatorSoap/Add", ["IntA":10, "IntB":20])): Send request successfully
+
+23-12-2024T13:18:59 - [MESSAGE][INFO] - HAR: /Users/mahtabsiddique/git/api-sample-tests/Reports/20241223_131821/TS_Addition/20241223_131852/requests/main/2.har
+
+23-12-2024T13:18:59 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[23-12-2024T13:18:56 - [TEST_SUITE][PASSED] - TS_Addition: Test Cases/SOAP/TC-SOAP-ADD]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
