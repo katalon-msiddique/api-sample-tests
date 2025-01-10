@@ -16,6 +16,27 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Web/TC_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>14f1f3fc-2c0a-45ed-8987-5db67a77dfcb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Users</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>14f1f3fc-2c0a-45ed-8987-5db67a77dfcb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>24ac372a-f331-4d4b-b491-ba0318c3bd66</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>14f1f3fc-2c0a-45ed-8987-5db67a77dfcb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Comment</value>
+         <variableId>9c9a95d6-4f3b-4fcf-822d-78e78ad8cf81</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

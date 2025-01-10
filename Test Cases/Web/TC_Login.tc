@@ -6,4 +6,30 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>ebe55963-3a48-41f3-a8fc-21051337e7bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>24ac372a-f331-4d4b-b491-ba0318c3bd66</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9c9a95d6-4f3b-4fcf-822d-78e78ad8cf81</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>24ac372a-f331-4d4b-b491-ba0318c3bd66</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Regular checkup.'</defaultValue>
+      <description></description>
+      <id>9c9a95d6-4f3b-4fcf-822d-78e78ad8cf81</id>
+      <masked>false</masked>
+      <name>Comment</name>
+   </variable>
 </TestCaseEntity>
