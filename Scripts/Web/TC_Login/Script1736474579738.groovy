@@ -23,7 +23,7 @@ WebUI.navigateToUrl(GlobalVariable.Web_URL)
 
 WebUI.click(findTestObject('Object Repository/Web/Login/Page_CURA Healthcare Service/a_Make Appointment'))
 
-WebUI.setText(findTestObject('Object Repository/Web/Login/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
+WebUI.setText(findTestObject('Object Repository/Web/Login/Page_CURA Healthcare Service/input_Username_username'), Username)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Web/Login/Page_CURA Healthcare Service/input_Password_password'), 
     'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
@@ -41,7 +41,7 @@ WebUI.click(findTestObject('Object Repository/Web/Login/Page_CURA Healthcare Ser
 
 WebUI.click(findTestObject('Object Repository/Web/Login/Page_CURA Healthcare Service/td_31'))
 
-WebUI.setText(findTestObject('Object Repository/Web/Login/Page_CURA Healthcare Service/textarea_Comment_comment'), 'Regular checkup.')
+WebUI.setText(findTestObject('Object Repository/Web/Login/Page_CURA Healthcare Service/textarea_Comment_comment'), Comment)
 
 WebUI.click(findTestObject('Object Repository/Web/Login/Page_CURA Healthcare Service/button_Book Appointment'))
 

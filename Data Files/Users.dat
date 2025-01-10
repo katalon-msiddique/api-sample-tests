@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Users</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>fc1a3c09-ee69-46f4-80c2-d49480e5c2a7</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+monthly+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+Monthly+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+yealy+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+Yearly+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+Health+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+hosptal+visit.</data>
+   <data>John+Doe Regular+Hospital+Monthly+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <data>John+Doe Regular+checkup.</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Username</name>
+      <size>25</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Comment</name>
+      <size>25</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
