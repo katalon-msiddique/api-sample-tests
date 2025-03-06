@@ -18,7 +18,7 @@ pipeline {
                 -projectPath="${PROJECT_PATH}" \
                 -retry=0 -testSuitePath="Test Suites/YourTestSuite" \
                 -executionProfile="default" -browserType="Chrome" \
-                -apiKey=${KATALON_API_KEY}
+                -apiKey='5fc4216f-90f0-43b6-8bf9-098fb9bec99a'
                 '''
             }
         }
